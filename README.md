@@ -63,8 +63,8 @@ CNN | TensorFlow / Keras
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your link here*
-* 📧 Email: *optional*
+* 💼 LinkedIn: *(https://www.linkedin.com/in/kushalhallikar/)*
+* 📧 Email: *kushalhallikar@gmail.com*
 
 ---
 
