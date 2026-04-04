@@ -48,7 +48,7 @@
 > End-to-end ML pipeline predicting loan approval outcomes
 
 - Logistic Regression + Random Forest — **~82% accuracy**
-- Deployed via **Streamlit**
+- Deployed via **Streamlit** — **🌐 [Try it live](https://loan-prediction-irxbjse6kixyhxkmzbtnls.streamlit.app/)**
 
 ---
 
