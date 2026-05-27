@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,1D9E75&height=220&section=header&text=Kushal%20Hallikar&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20LLMs&descAlign=50&descAlignY=58&descSize=17&descColor=9FE1CB" width="100%"/>
-</div>
+![banner](banner.png)
 # 👋 Hi, I'm Kushal Hallikar
 
 🤖 Machine Learning Engineer in the making | Building real-world AI applications
