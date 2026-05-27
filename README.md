@@ -11,7 +11,7 @@
 - 🤖 Passionate about NLP, LLMs, Computer Vision, and MLOps
 - 🚀 Focused on shipping real, working applications — not just notebooks
 - 🌱 Exploring Generative AI, RAG pipelines, and LLM integrations
-- 💬 Ask me about Python, ML pipelines, Streamlit apps, or Deep Learning
+- 💬 Ask me about Python, ML pipelines or Deep Learning
 
 ---
 
