@@ -1,4 +1,6 @@
-![banner](banner.png)
+<div align="center">
+  <img src="banner.png" alt="Kushal Hallikar Banner" width="100%"/>
+</div>
 # 👋 Hi, I'm Kushal Hallikar
 
 🤖 Machine Learning Engineer in the making | Building real-world AI applications
