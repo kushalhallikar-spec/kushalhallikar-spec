@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Kushal+Hallikar;ML+Engineer+in+the+Making;Computer+Vision+%7C+NLP+%7C+LLMs" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kushal%20Hallikar&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20LLMs&descAlign=50&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
 </div>
 # 👋 Hi, I'm Kushal Hallikar
 
