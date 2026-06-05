@@ -1,10 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kushal%20Hallikar&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20LLMs&descAlign=50&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
 </div>
+
 # 👋 Hi, I'm Kushal Hallikar
 
 🤖 Machine Learning Engineer in the making | Building real-world AI applications
 📍 Bangalore, India
+
+---
+
+## 🌐 Portfolio
+
+> Check out my personal portfolio — built from scratch with React + Vite, cinematic dark theme, fully responsive.
+
+**🔗 [kushalhallikar.vercel.app](https://kushalhallikar.vercel.app)**
 
 ---
 
@@ -106,6 +115,7 @@
 
 ## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kushalhallikar.vercel.app-a8edcc?style=flat-square&logo=vercel&logoColor=black)](https://kushalhallikar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushal%20Hallikar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kushalhallikar/)
 [![Email](https://img.shields.io/badge/Email-kushalhallikar%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:kushalhallikar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kushalhallikar--spec-181717?style=flat-square&logo=github)](https://github.com/kushalhallikar-spec)
