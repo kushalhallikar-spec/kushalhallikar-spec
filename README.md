@@ -98,21 +98,6 @@
 **LLMs & APIs**
 ![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-orange?style=flat-square)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalhallikar-spec&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalhallikar-spec&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalhallikar-spec&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kushalhallikar.vercel.app-a8edcc?style=flat-square&logo=vercel&logoColor=black)](https://kushalhallikar.vercel.app)
